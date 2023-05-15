@@ -40,9 +40,3 @@ performance.</p>
 <td align="center" width="96"><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </td>
 </tr>
 </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnouman9&show_icons=true&locale=en&layout=compact" alt="mnouman9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnouman9&show_icons=true&locale=en" alt="mnouman9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnouman9&" alt="mnouman9" /></p>
